@@ -23,7 +23,7 @@ For this project, I was interestested in using StackOverflow data from 2017 -202
 
 1. What were the most popular technologies over the past 5 years?
 2. What were the top paying technologies over the past 5 years?
-3. What will the top paying technologies be next year (2024)?
+3. What will the top paying technologies be next year (2024) and are they related to the most popular technologies / top paying technologies from previous years?
 
 ## File Descriptions <a name="files"></a>
 
