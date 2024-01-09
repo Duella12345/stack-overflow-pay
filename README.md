@@ -21,9 +21,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interestested in using StackOverflow data from 2017 -2023 to better understand:
 
-1. What were the most popular technologies over the past 5 years?
-2. What were the top paying technologies over the past 5 years?
-3. What will the top paying technologies be next year (2024) and are they related to the most popular technologies / top paying technologies from previous years?
+1. What were the most popular programming languages over the past 5 years?
+2. What were the top paying programming languages over the past 5 years?
+3. What will be the average pay for certain programming languages next year (2024) and are they related to the most popular programming languages / average pay for those programming languages from previous years?
 
 ## File Descriptions <a name="files"></a>
 
