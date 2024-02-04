@@ -33,7 +33,7 @@ There is an additional `.py` file that runs the necessary code to obtain the fin
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://github.com/Duella12345/stack-overflow-pay).
+The main findings of the code can be found at the post available [here](https://medium.com/@belindaarmstrong/3-things-only-highly-paid-programmers-know-5b1a70186238).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
